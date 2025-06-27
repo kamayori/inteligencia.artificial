@@ -6,15 +6,15 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "Quem é o fundou a banda My chemical romance?",
         alternativas: [
             {
-                texto: "Isso é assustador!",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
+                texto: "Gerard Way",
+                afirmacao: "Cantor Gerard Way fundou o My Chemical Romance em 2001, logo após os ataques de 11 de setembro. "
             },
             {
-                texto: "Isso é maravilhoso!",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                texto: "rmãos Vic Fuentes e Mike Fuentes",
+                afirmacao: "A banda Pierce The Veil foi fundada pelos irmãos Vic Fuentes e Mike Fuentes. Eles formaram a banda em 2006."
             }
         ]
     },
