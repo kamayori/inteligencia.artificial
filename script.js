@@ -32,41 +32,41 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "quem fundou a banda System of a Down?",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao: "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA."
+                texto: "Serj Tankian e Daron Malakian, com a colaboração de Shavo Odadjian e John Dolmayan.",
+                afirmacao: "A A banda System of a Down foi fundada por Serj Tankian e Daron Malakian, com a colaboração de Shavo Odadjian e John Dolmayan. O nome da banda foi inspirado em um poema de Daron Malakian chamado "Victims of a Down", que foi adaptado para "System of a Down" por sugestão de Shavo"
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao: "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética."
+                texto: "onathan Davis, James "Munky" Shaffer, Reginald "Fieldy" Arvizu, Brian "Head" Welch e David Silveria.",
+                afirmacao: "A banda Korn foi formada por Jonathan Davis, James "Munky" Shaffer, Reginald "Fieldy" Arvizu, Brian "Head" Welch e David Silveria. Eles se juntaram em 1993 em Bakersfield, Califórnia, após a dissolução de suas bandas anteriores, LAPD e Sexart."
             }
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "Quem fundou a banda Bad Omens?",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
+                texto: "Noah Sebastian.",
+                afirmacao: "A banda Bad Omens foi fundada pelo vocalista Noah Sebastian em 2015, em Richmond, Virginia. Ele iniciou o projeto enquanto ainda tocava guitarra em outra banda."
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao: "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
+                texto: "James Hetfield e Lars Ulrich.",
+                afirmacao: "Os fundadores da banda Metallica são James Hetfield e Lars Ulrich. Eles se conheceram em 1981, após Ulrich colocar um anúncio em um jornal procurando músicos para formar uma banda"
             }
         ]
     },
     {
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
+        enunciado: "Quem fundou a banda Mike Shinoda Linkin Park? ",
         alternativas: [
             {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+                texto: "Mike Shinoda, Brad Delson e Rob Bourdon.",
+                afirmacao: "A banda Linkin Park foi fundada por três amigos de escola: Mike Shinoda, Brad Delson e Rob Bourdon. Eles começaram a tocar juntos em Agoura Hills, Califórnia, ainda no colégio, formando a banda Xero, que mais tarde se tornaria Linkin Park."
             },
             {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
+                texto: "Paul Stanley e Gene Simmons.",
+                afirmacao: "A banda Kiss foi fundada por Paul Stanley e Gene Simmons. Eles decidiram criar o grupo após o fim de sua banda anterior, Wicked Lester."
             }
         ]
     },
