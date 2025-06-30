@@ -26,8 +26,8 @@ const perguntas = [
                 afirmacao: "O Slipknot foi fundado por Shawn "Clown" Crahan, Paul Gray e Anders Colsefni em Des Moines, Iowa, em 1995"
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
+                texto: "Mike Shinoda, Brad Delson e Rob Bourdon.",
+                afirmacao: "A banda Linkin Park foi fundada por três amigos do ensino médio: Mike Shinoda, Brad Delson e Rob Bourdon."
             }
         ]
     },
